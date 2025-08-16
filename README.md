@@ -4,7 +4,7 @@ Apps made by learning from a Flutter app development course.
 
 ## Getting Started
 
--Counter app
+-Counter App
 
 -IMC App
 
