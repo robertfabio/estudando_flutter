@@ -1,16 +1,15 @@
-# variosapps
+# Various Apps
 
-Curso completo de flutter.
+Apps made by learning from a Flutter app development course.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+-Counter App
 
-A few resources to get you started if this is your first Flutter project:
+-IMC App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-Fipe Api App
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-ToDo List App
+
+
