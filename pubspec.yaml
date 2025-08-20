@@ -70,6 +70,7 @@ flutter:
     - assets/back.jpg
     - assets/back1.jpg
     - assets/bola.jpg
+    - assets/rage.jpg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
