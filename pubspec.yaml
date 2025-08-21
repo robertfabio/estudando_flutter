@@ -71,6 +71,10 @@ flutter:
     - assets/back1.jpg
     - assets/bola.jpg
     - assets/rage.jpg
+    - assets/jokenpo/padrao.png
+    - assets/jokenpo/papel.png
+    - assets/jokenpo/pedra.png
+    - assets/jokenpo/tesoura.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
